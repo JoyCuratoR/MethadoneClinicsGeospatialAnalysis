@@ -1,5 +1,5 @@
 # About the Guided Project
-To learn geospatial analysis using a project-based approach, I used tutorials from [Opioid Environment Toolkit](https://geodacenter.github.io/opioid-environment-toolkit/index.html) which is created by Marynia Kolak, Moksha Menghaney, Qinyun Lin, and Angela Li for the JCOIN netowrk - part of the NIH HEAL Initiative.
+To learn geospatial analysis using a project-based approach, I used tutorials from [Opioid Environment Toolkit](https://geodacenter.github.io/opioid-environment-toolkit/index.html) which is created by Marynia Kolak, Moksha Menghaney, Qinyun Lin, and Angela Li for the JCOIN netowork - part of the NIH HEAL Initiative.
 
 The purpose of the Opioid Environment Toolkit tutorial project is to teach students how to perform resource location and access analysis, buffer analysis, and identify neighborhoods that are most vulnerable due to the impact of COVID-19.
 
